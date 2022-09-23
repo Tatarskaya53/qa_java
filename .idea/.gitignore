@@ -1,3 +1,5 @@
 # Default ignored files
+# IntellijIdea files
+.idea
 /shelf/
 /workspace.xml
