@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Cat.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/Lion.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/AnimalTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/CatTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/FelineTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/example/LionTest.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
